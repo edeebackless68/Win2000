@@ -1,0 +1,14 @@
+{
+  "name": "@win2k/system",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Terminal, registry, tasks and system utilities",
+  "exports": {
+    ".": "./index.js",
+    "./*": "./*"
+  },
+  "sideEffects": false,
+  "files": [
+    "*.js"
+  ]
+}

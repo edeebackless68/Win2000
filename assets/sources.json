@@ -1,0 +1,487 @@
+[
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/my-computer-16x16.png",
+    "path": "assets/icons/my-computer-16x16.png",
+    "bytes": 352,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/my-computer-32x32.png",
+    "path": "assets/icons/my-computer-32x32.png",
+    "bytes": 766,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/my-documents-16x16.png",
+    "path": "assets/icons/my-documents-16x16.png",
+    "bytes": 331,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/my-documents-32x32.png",
+    "path": "assets/icons/my-documents-32x32.png",
+    "bytes": 469,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/my-documents-folder-16x16.png",
+    "path": "assets/icons/my-documents-folder-16x16.png",
+    "bytes": 299,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/my-documents-folder-32x32.png",
+    "path": "assets/icons/my-documents-folder-32x32.png",
+    "bytes": 617,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/recycle-bin-16x16.png",
+    "path": "assets/icons/recycle-bin-16x16.png",
+    "bytes": 407,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/recycle-bin-32x32.png",
+    "path": "assets/icons/recycle-bin-32x32.png",
+    "bytes": 936,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/recycle-bin-full-16x16.png",
+    "path": "assets/icons/recycle-bin-full-16x16.png",
+    "bytes": 403,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/recycle-bin-full-32x32.png",
+    "path": "assets/icons/recycle-bin-full-32x32.png",
+    "bytes": 1020,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/network-16x16.png",
+    "path": "assets/icons/network-16x16.png",
+    "bytes": 413,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/network-32x32.png",
+    "path": "assets/icons/network-32x32.png",
+    "bytes": 777,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/internet-explorer-16x16.png",
+    "path": "assets/icons/internet-explorer-16x16.png",
+    "bytes": 387,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/internet-explorer-32x32.png",
+    "path": "assets/icons/internet-explorer-32x32.png",
+    "bytes": 894,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/paint-16x16.png",
+    "path": "assets/icons/paint-16x16.png",
+    "bytes": 362,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/paint-32x32.png",
+    "path": "assets/icons/paint-32x32.png",
+    "bytes": 538,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/notepad-16x16.png",
+    "path": "assets/icons/notepad-16x16.png",
+    "bytes": 473,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/notepad-32x32.png",
+    "path": "assets/icons/notepad-32x32.png",
+    "bytes": 691,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/calculator-16x16.png",
+    "path": "assets/icons/calculator-16x16.png",
+    "bytes": 362,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/calculator-32x32.png",
+    "path": "assets/icons/calculator-32x32.png",
+    "bytes": 384,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/minesweeper-16x16.png",
+    "path": "assets/icons/minesweeper-16x16.png",
+    "bytes": 264,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/minesweeper-32x32.png",
+    "path": "assets/icons/minesweeper-32x32.png",
+    "bytes": 552,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/solitaire-16x16.png",
+    "path": "assets/icons/solitaire-16x16.png",
+    "bytes": 204,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/solitaire-32x32.png",
+    "path": "assets/icons/solitaire-32x32.png",
+    "bytes": 421,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/settings-16x16.png",
+    "path": "assets/icons/settings-16x16.png",
+    "bytes": 405,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/settings-32x32.png",
+    "path": "assets/icons/settings-32x32.png",
+    "bytes": 664,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/start-settings-16x16.png",
+    "path": "assets/icons/start-settings-16x16.png",
+    "bytes": 196,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/start-settings-32x32.png",
+    "path": "assets/icons/start-settings-32x32.png",
+    "bytes": 316,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/run-16x16.png",
+    "path": "assets/icons/run-16x16.png",
+    "bytes": 339,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/run-32x32.png",
+    "path": "assets/icons/run-32x32.png",
+    "bytes": 623,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/shutdown-16x16.png",
+    "path": "assets/icons/shutdown-16x16.png",
+    "bytes": 424,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/shutdown-32x32.png",
+    "path": "assets/icons/shutdown-32x32.png",
+    "bytes": 640,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/logoff-16x16.png",
+    "path": "assets/icons/logoff-16x16.png",
+    "bytes": 346,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/logoff-32x32.png",
+    "path": "assets/icons/logoff-32x32.png",
+    "bytes": 597,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/programs-16x16.png",
+    "path": "assets/icons/programs-16x16.png",
+    "bytes": 312,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/programs-32x32.png",
+    "path": "assets/icons/programs-32x32.png",
+    "bytes": 482,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/programs-folder-16x16.png",
+    "path": "assets/icons/programs-folder-16x16.png",
+    "bytes": 312,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/programs-folder-32x32.png",
+    "path": "assets/icons/programs-folder-32x32.png",
+    "bytes": 569,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/folder-16x16.png",
+    "path": "assets/icons/folder-16x16.png",
+    "bytes": 205,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/folder-32x32.png",
+    "path": "assets/icons/folder-32x32.png",
+    "bytes": 389,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/folder-open-16x16.png",
+    "path": "assets/icons/folder-open-16x16.png",
+    "bytes": 227,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/folder-open-32x32.png",
+    "path": "assets/icons/folder-open-32x32.png",
+    "bytes": 429,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/help-16x16.png",
+    "path": "assets/icons/help-16x16.png",
+    "bytes": 367,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/help-32x32.png",
+    "path": "assets/icons/help-32x32.png",
+    "bytes": 564,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/find-file-16x16.png",
+    "path": "assets/icons/find-file-16x16.png",
+    "bytes": 420,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/find-file-32x32.png",
+    "path": "assets/icons/find-file-32x32.png",
+    "bytes": 717,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/speaker-16x16.png",
+    "path": "assets/icons/speaker-16x16.png",
+    "bytes": 253,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/speaker-32x32.png",
+    "path": "assets/icons/speaker-32x32.png",
+    "bytes": 456,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/document-16x16.png",
+    "path": "assets/icons/document-16x16.png",
+    "bytes": 375,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/document-32x32.png",
+    "path": "assets/icons/document-32x32.png",
+    "bytes": 460,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/hard-disk-drive-16x16.png",
+    "path": "assets/icons/hard-disk-drive-16x16.png",
+    "bytes": 346,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/hard-disk-drive-32x32.png",
+    "path": "assets/icons/hard-disk-drive-32x32.png",
+    "bytes": 372,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/windows-16x16-1bpp.png",
+    "path": "assets/icons/windows-16x16-1bpp.png",
+    "bytes": 428,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/windows-22x22-8bpp.png",
+    "path": "assets/icons/windows-22x22-8bpp.png",
+    "bytes": 464,
+    "width": 22,
+    "height": 22
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/windows-32x32-8bpp.png",
+    "path": "assets/icons/windows-32x32-8bpp.png",
+    "bytes": 504,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/images/icons/start-menu-programs-32x32.png",
+    "path": "assets/icons/start-menu-programs-32x32.png",
+    "bytes": 447,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://raw.githubusercontent.com/wine-mirror/wine/master/fonts/tahoma.ttf",
+    "path": "assets/fonts/tahoma.ttf",
+    "bytes": 143884
+  },
+  {
+    "source": "https://raw.githubusercontent.com/wine-mirror/wine/master/fonts/tahomabd.ttf",
+    "path": "assets/fonts/tahomabd.ttf",
+    "bytes": 137836
+  },
+  {
+    "source": "https://raw.githubusercontent.com/wine-mirror/wine/master/COPYING.LIB",
+    "path": "assets/licenses/wine-COPYING.LIB",
+    "bytes": 26434
+  },
+  {
+    "source": "https://raw.githubusercontent.com/React95/React95/master/LICENSE",
+    "path": "assets/licenses/react95-LICENSE.txt",
+    "bytes": 1175
+  },
+  {
+    "source": "https://raw.githubusercontent.com/1j01/98/master/README.md",
+    "path": "assets/licenses/98js-README.md",
+    "bytes": 13381
+  },
+  {
+    "source": "https://raw.githubusercontent.com/jdan/98.css/main/LICENSE",
+    "path": "assets/licenses/98css-LICENSE.txt",
+    "bytes": 1053
+  },
+  {
+    "path": "assets/icons/games-16x16.png",
+    "source": "https://raw.githubusercontent.com/React95/React95/master/packages/icons/png/Joy102_16x16_8.png",
+    "bytes": 461,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "path": "assets/icons/games-32x32.png",
+    "source": "https://raw.githubusercontent.com/React95/React95/master/packages/icons/png/Joy102_32x32_8.png",
+    "bytes": 1263,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "path": "assets/icons/directory_control_panel-2.png",
+    "source": "https://win98icons.alexmeub.com/icons/png/directory_control_panel-2.png",
+    "bytes": 608,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "path": "assets/icons/directory_control_panel-4.png",
+    "source": "https://win98icons.alexmeub.com/icons/png/directory_control_panel-4.png",
+    "bytes": 503,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "path": "assets/icons/directory_control_panel_cool-2.png",
+    "source": "https://win98icons.alexmeub.com/icons/png/directory_control_panel_cool-2.png",
+    "bytes": 618,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "path": "assets/icons/directory_control_panel_cool-4.png",
+    "source": "https://win98icons.alexmeub.com/icons/png/directory_control_panel_cool-4.png",
+    "bytes": 503,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://win98icons.alexmeub.com/icons/png/directory_control_panel-0.png",
+    "path": "assets/icons/control-panel-48x48.png",
+    "bytes": 570,
+    "width": 48,
+    "height": 48
+  },
+  {
+    "source": "https://win98icons.alexmeub.com/icons/png/directory_control_panel-2.png",
+    "path": "assets/icons/control-panel-32x32.png",
+    "bytes": 608,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "https://win98icons.alexmeub.com/icons/png/directory_control_panel-1.png",
+    "path": "assets/icons/control-panel-16x16.png",
+    "bytes": 420,
+    "width": 16,
+    "height": 16
+  }
+]

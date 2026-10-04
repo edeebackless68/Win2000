@@ -1,0 +1,14 @@
+{
+  "name": "@win2k/shell",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Desktop, Start menu, taskbar, help and session UI",
+  "exports": {
+    ".": "./index.js",
+    "./*": "./*"
+  },
+  "sideEffects": true,
+  "files": [
+    "*.js"
+  ]
+}

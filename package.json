@@ -1,0 +1,19 @@
+{
+  "name": "windows-2000-web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A modular Windows 2000 Professional desktop for the browser.",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@win2k/core",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Transactional virtual filesystem and desktop services",
+  "exports": {
+    ".": "./index.js",
+    "./*": "./*"
+  },
+  "sideEffects": false,
+  "files": [
+    "*.js"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@win2k/control-panel",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Classic desktop settings and control panels",
+  "exports": {
+    ".": "./index.js",
+    "./*": "./*"
+  },
+  "sideEffects": false,
+  "files": [
+    "*.js"
+  ]
+}

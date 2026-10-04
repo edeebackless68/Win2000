@@ -1,0 +1,14 @@
+{
+  "name": "@win2k/internet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Browser, address book and local mail",
+  "exports": {
+    ".": "./index.js",
+    "./*": "./*"
+  },
+  "sideEffects": false,
+  "files": [
+    "*.js"
+  ]
+}

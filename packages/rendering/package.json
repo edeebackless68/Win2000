@@ -1,0 +1,14 @@
+{
+  "name": "@win2k/rendering",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "WebGPU, WebGL2, and Canvas 2D presentation",
+  "exports": {
+    ".": "./index.js",
+    "./*": "./*"
+  },
+  "sideEffects": false,
+  "files": [
+    "*.js"
+  ]
+}

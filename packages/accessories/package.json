@@ -1,0 +1,14 @@
+{
+  "name": "@win2k/accessories",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Text editors, image editor, calculator and multimedia",
+  "exports": {
+    ".": "./index.js",
+    "./*": "./*"
+  },
+  "sideEffects": false,
+  "files": [
+    "*.js"
+  ]
+}

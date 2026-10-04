@@ -1,0 +1,14 @@
+{
+  "name": "@win2k/explorer",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Virtual file explorer and shell namespace",
+  "exports": {
+    ".": "./index.js",
+    "./*": "./*"
+  },
+  "sideEffects": false,
+  "files": [
+    "*.js"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@win2k/ui",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Classic controls, dialogs, and window manager",
+  "exports": {
+    ".": "./index.js",
+    "./*": "./*"
+  },
+  "sideEffects": true,
+  "files": [
+    "*.js"
+  ]
+}
